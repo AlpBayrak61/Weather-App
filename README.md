@@ -1,2 +1,2 @@
 # Weather-App
-Weather App that is made by using JavaScript
+Weather App that is made by using HTML, CSS, JavaScript
